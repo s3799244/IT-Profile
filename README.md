@@ -1,7 +1,7 @@
 ## My it Profile
-# Oscar Herrick
-# Email: S3799244@student.rmit.edu.au
-# Student Number - S3799244
+### Oscar Herrick
+### Email: S3799244@student.rmit.edu.au
+### Student Number - S3799244
  
 
 My name is Oscar and I am passionate about music, sports and technology. I’ve played the piano & drums for over 6 years. Ever since I can remember I’ve had an interest in technology and computers. I find the endless capabilities of IT very intriguing. Now more than ever, IT is a part of our lives and in the future, it will be even more so. 
