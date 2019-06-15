@@ -10,6 +10,7 @@ I expect to further my understanding of information technology throughout this c
 
 Here is the listing for my ideal job:
 https://www.seek.com.au/job/39075091?type=standard&searchrequesttoken=621daf45-f3bc-49e6-9a84-a0ed29add4f9 
+![Job Listing](joblisting.PNG)
 
 
 This role is a sales and IT troubleshooting job. I am experienced in troubleshooting computer issues and I believe I would enjoy working in this position for that reason.
@@ -27,9 +28,14 @@ In order for me to get this job I need to get more experience working with custo
 To get the required experience I would start by working as an entry level sales representative. I would further my IT knowledge by continuing study with RMIT.
 
 Personal Profile
+
 Myers-Briggs test result: INFJ-A
+
 Learning style test result: Auditory learner
+
 The Big Five test result:  
+
+![](big5.PNG)
 
 
 The results of these tests show that I am organized, dependable, conscientious, agreeable, compassionate, co-operative and enjoy intellectual stimulation. It also shows that I learn best through listening and observing. 
