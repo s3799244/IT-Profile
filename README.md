@@ -27,7 +27,7 @@ In order for me to get this job I need to get more experience working with custo
 
 To get the required experience I would start by working as an entry level sales representative. I would further my IT knowledge by continuing study with RMIT.
 
-Personal Profile
+### Personal Profile
 
 Myers-Briggs test result: INFJ-A
 
